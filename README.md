@@ -1,22 +1,22 @@
-# Available .TENNIS One-Word Domains (9,722)
+# Available .TENNIS One-Word Domains (12,271)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C723%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C722%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C271%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .tennis one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .tennis one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,271 domains** on the canonical page below.
 
-**Public extract:** 9,723 rows · **Live catalog:** 9,722 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,271 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tennis`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TENNIS one-word domai
 
 ### Files
 
-- `tennis.csv` — public CSV extract (9,723 rows)
-- `tennis.json` — public JSON extract (9,723 rows)
+- `tennis.csv` — public CSV extract (1,000 rows)
+- `tennis.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| zero.tennis     | available | $80.99    | $86.99        | 112            | 53     | 4      | name.com                                    |
-| paddle.tennis   | resell    | —         | —             | 86             | 78     | 6      | Spaceship, Inc.                             |
-| free.tennis     | premium   | $82.50    | $82.50        | 88             | 57     | 4      | name.com                                    |
-| business.tennis | available | $81.98    | —             | 100            | 53     | 8      | namecheap                                   |
-| true.tennis     | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC                            |
-| good.tennis     | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                    |
-| fast.tennis     | available | $80.99    | $86.99        | 82             | 52     | 4      | name.com                                    |
-| one.tennis      | resell    | —         | —             | 132            | 50     | 3      | Automattic Inc.                             |
-| all.tennis      | premium   | $250      | $250          | 88             | 48     | 3      | name.com                                    |
-| simple.tennis   | available | $80.99    | $86.99        | 128            | 49     | 6      | name.com                                    |
-| video.tennis    | resell    | —         | —             | 106            | 47     | 5      | NameSilo, LLC                               |
-| elite.tennis    | premium   | $123.75   | $123.75       | 90             | 42     | 5      | name.com                                    |
-| clear.tennis    | available | $80.99    | $86.99        | 90             | 49     | 5      | name.com                                    |
-| star.tennis     | resell    | —         | —             | 86             | 43     | 4      | GoDaddy.com, LLC                            |
-| custom.tennis   | premium   | $82.50    | $82.50        | 110            | 39     | 6      | name.com                                    |
-| air.tennis      | available | $81.98    | —             | 84             | 49     | 3      | namecheap                                   |
-| strategy.tennis | resell    | —         | —             | 74             | 43     | 8      | NameCheap, Inc.                             |
-| learning.tennis | premium   | $128.70   | $128.70       | 76             | 39     | 8      | namecheap                                   |
-| security.tennis | available | $81.98    | —             | 70             | 49     | 8      | namecheap                                   |
-| virtual.tennis  | resell    | —         | —             | —              | 39     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agents.tennis      | available | $80.99    | —             | 56             | 50     | 6      | name.com  |
+| events.tennis      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
+| robots.tennis      | available | $65.99    | $65.99        | 62             | 47     | 6      | namesilo  |
+| WiFi.tennis        | available | $81.98    | —             | 83             | 37     | 5      | namecheap |
+| stories.tennis     | available | $80.99    | —             | 58             | 36     | 7      | name.com  |
+| tokens.tennis      | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
+| payments.tennis    | available | $80.99    | —             | 58             | 33     | 8      | name.com  |
+| maps.tennis        | available | $80.99    | —             | 56             | 31     | 4      | name.com  |
+| solutions.tennis   | available | $80.99    | —             | 56             | 31     | 9      | name.com  |
+| inspiration.tennis | available | $80.99    | —             | 88             | 30     | 11     | name.com  |
+| quotes.tennis      | available | $80.99    | —             | 58             | 29     | 6      | name.com  |
+| forms.tennis       | available | $80.99    | —             | 54             | 28     | 5      | name.com  |
+| photos.tennis      | available | $80.99    | —             | 54             | 28     | 6      | name.com  |
+| tips.tennis        | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
+| trades.tennis      | available | $65.99    | $65.99        | 71             | 26     | 6      | namesilo  |
+| traders.tennis     | available | $80.99    | —             | 60             | 26     | 7      | name.com  |
+| sites.tennis       | available | $80.99    | —             | 53             | 26     | 5      | name.com  |
+| destination.tennis | available | $80.99    | —             | 90             | 25     | 11     | name.com  |
+| Trex.tennis        | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
+| chem.tennis        | available | $80.99    | —             | 74             | 24     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,723-row public sample | 9,722 live domains                               |
+| 1,000-row public sample | 12,271 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
