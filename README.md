@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .tennis one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,685 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,685 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,685 domains · **Median ask:** $78.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/tennis`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.tennis      | available | $80.99    | —             | 56             | 50     | 6      | name.com  |
-| events.tennis      | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| robots.tennis      | available | $65.99    | $65.99        | 62             | 47     | 6      | namesilo  |
-| tokens.tennis      | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
-| payments.tennis    | available | $80.99    | —             | 58             | 33     | 8      | name.com  |
-| solutions.tennis   | available | $80.99    | —             | 56             | 31     | 9      | name.com  |
-| inspiration.tennis | available | $80.99    | —             | 88             | 30     | 11     | name.com  |
-| forms.tennis       | available | $80.99    | —             | 54             | 28     | 5      | name.com  |
-| photos.tennis      | available | $80.99    | —             | 54             | 28     | 6      | name.com  |
-| tips.tennis        | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
-| traders.tennis     | available | $80.99    | —             | 60             | 26     | 7      | name.com  |
-| sites.tennis       | available | $80.99    | —             | 53             | 26     | 5      | name.com  |
-| destination.tennis | available | $80.99    | —             | 90             | 25     | 11     | name.com  |
-| Trex.tennis        | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
-| chem.tennis        | available | $80.99    | —             | 74             | 24     | 4      | name.com  |
-| schools.tennis     | available | $80.99    | —             | 72             | 24     | 7      | name.com  |
-| gamers.tennis      | available | $65.99    | $65.99        | 62             | 24     | 6      | namesilo  |
-| toys.tennis        | available | $65.99    | $65.99        | 60             | 24     | 4      | namesilo  |
-| reports.tennis     | available | $80.99    | —             | 58             | 24     | 7      | name.com  |
-| boats.tennis       | available | $80.99    | —             | 52             | 24     | 5      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.tennis      | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
+| Trex.tennis      | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
+| finals.tennis    | available | $65.99    | $65.99        | 80             | 7      | 6      | namesilo  |
+| forces.tennis    | available | $80.99    | —             | 82             | 12     | 6      | name.com  |
+| getup.tennis     | available | $80.99    | —             | 82             | 14     | 6      | name.com  |
+| dogsit.tennis    | available | $80.99    | —             | 96             | 2      | 6      | name.com  |
+| edamame.tennis   | available | $65.99    | $65.99        | 80             | 9      | 7      | namesilo  |
+| gearup.tennis    | available | $80.99    | —             | 80             | 16     | 7      | name.com  |
+| QandA.tennis     | available | $81.98    | —             | 80             | 10     | 7      | namecheap |
+| makeit.tennis    | available | $80.99    | —             | 82             | 22     | 7      | name.com  |
+| watches.tennis   | available | $80.99    | —             | 84             | 19     | 7      | name.com  |
+| dogsick.tennis   | available | $80.99    | —             | 90             | 1      | 7      | name.com  |
+| leaveon.tennis   | available | $80.99    | —             | 80             | 1      | 8      | name.com  |
+| messages.tennis  | available | $65.99    | $65.99        | 80             | 16     | 8      | namesilo  |
+| agents.tennis    | available | $80.99    | —             | 56             | 50     | 6      | name.com  |
+| events.tennis    | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
+| robots.tennis    | available | $65.99    | $65.99        | 62             | 47     | 6      | namesilo  |
+| tokens.tennis    | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
+| payments.tennis  | available | $80.99    | —             | 58             | 33     | 8      | name.com  |
+| solutions.tennis | available | $80.99    | —             | 56             | 31     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,685 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,685 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of one-word .tennis domains. The set ranges from direct keyword names such as tips.tennis and finals.tennis to broader brandable words like Acup.tennis, Trex.tennis, and geton.tennis. For founders, the main question is whether the word is easy to remember, easy to say, and clearly relevant to a tennis audience. For investors, the focus is usually tighter: buy-in discipline, renewal exposure, and whether the term has obvious resale appeal inside the tennis niche. With a median ask of 78.81, this set leans toward lower entry pricing, but quality still depends on clarity, relevance, and avoidable trademark risk.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that read cleanly before .tennis
+- Use price discipline; median ask here is 78.81
+- Generic tennis terms usually beat obscure wording
+- Check trademark exposure on coined or branded terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
