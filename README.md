@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tennis one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,684 domains · **Median ask:** $78.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/tennis`  
 **Best for:** founders, investors, studios
 
@@ -68,12 +68,12 @@ print(df.head())
 | Trex.tennis      | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
 | finals.tennis    | available | $65.99    | $65.99        | 80             | 7      | 6      | namesilo  |
 | forces.tennis    | available | $80.99    | —             | 82             | 12     | 6      | name.com  |
-| getup.tennis     | available | $80.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.tennis     | available | $80.99    | —             | 82             | 15     | 6      | name.com  |
 | dogsit.tennis    | available | $80.99    | —             | 96             | 2      | 6      | name.com  |
 | edamame.tennis   | available | $65.99    | $65.99        | 80             | 9      | 7      | namesilo  |
 | gearup.tennis    | available | $80.99    | —             | 80             | 16     | 7      | name.com  |
 | QandA.tennis     | available | $81.98    | —             | 80             | 10     | 7      | namecheap |
-| makeit.tennis    | available | $80.99    | —             | 82             | 22     | 7      | name.com  |
+| makeit.tennis    | available | $80.99    | —             | 82             | 21     | 7      | name.com  |
 | watches.tennis   | available | $80.99    | —             | 84             | 19     | 7      | name.com  |
 | dogsick.tennis   | available | $80.99    | —             | 90             | 1      | 7      | name.com  |
 | leaveon.tennis   | available | $80.99    | —             | 80             | 1      | 8      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
