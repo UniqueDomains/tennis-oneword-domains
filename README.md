@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tennis one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,684 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,684 domains · **Median ask:** $78.81 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,684 domains · **Median ask:** $72.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tennis`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tennis`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TENNIS one-word domai
 
 ### Files
 
-- `tennis.csv` — public CSV extract (1,000 rows)
-- `tennis.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tennis.csv`, public CSV extract (1,000 rows)
+- `tennis.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.tennis      | available | $80.99    | —             | 80             | 26     | 4      | name.com  |
-| Trex.tennis      | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
-| finals.tennis    | available | $65.99    | $65.99        | 80             | 7      | 6      | namesilo  |
-| forces.tennis    | available | $80.99    | —             | 82             | 12     | 6      | name.com  |
-| getup.tennis     | available | $80.99    | —             | 82             | 15     | 6      | name.com  |
-| dogsit.tennis    | available | $80.99    | —             | 96             | 2      | 6      | name.com  |
-| edamame.tennis   | available | $65.99    | $65.99        | 80             | 9      | 7      | namesilo  |
-| gearup.tennis    | available | $80.99    | —             | 80             | 16     | 7      | name.com  |
-| QandA.tennis     | available | $81.98    | —             | 80             | 10     | 7      | namecheap |
-| makeit.tennis    | available | $80.99    | —             | 82             | 21     | 7      | name.com  |
-| watches.tennis   | available | $80.99    | —             | 84             | 19     | 7      | name.com  |
-| dogsick.tennis   | available | $80.99    | —             | 90             | 1      | 7      | name.com  |
-| leaveon.tennis   | available | $80.99    | —             | 80             | 1      | 8      | name.com  |
-| messages.tennis  | available | $65.99    | $65.99        | 80             | 16     | 8      | namesilo  |
-| agents.tennis    | available | $80.99    | —             | 56             | 50     | 6      | name.com  |
-| events.tennis    | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| robots.tennis    | available | $65.99    | $65.99        | 62             | 47     | 6      | namesilo  |
-| tokens.tennis    | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
-| payments.tennis  | available | $80.99    | —             | 58             | 33     | 8      | name.com  |
-| solutions.tennis | available | $80.99    | —             | 56             | 31     | 9      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| come.tennis   | available | $65.99    | $65.99        | high           | low    | 4      | namesilo         |
+| bee.tennis    | available | $65.99    | $65.99        | high           | medium | 3      | namesilo         |
+| boo.tennis    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| won.tennis    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bus.tennis    | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| free.tennis   | premium   | $82.50    | $82.50        | high           | medium | 4      | name.com         |
+| CNN.tennis    | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| head.tennis   | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| cry.tennis    | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| info.tennis   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| dna.tennis    | available | $65.99    | $65.99        | high           | medium | 3      | namesilo         |
+| today.tennis  | premium   | $242      | $242          | high           | low    | 5      | namesilo         |
+| eat.tennis    | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| total.tennis  | premium   | $123.75   | $123.75       | high           | low    | 5      | name.com         |
+| feb.tennis    | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| youth.tennis  | premium   | $242      | $242          | high           | low    | 5      | namesilo         |
+| fee.tennis    | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| alaska.tennis | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
+| fix.tennis    | available | $65.99    | $65.99        | medium         | low    | 3      | namesilo         |
+| family.tennis | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .tennis domains. The set ranges from direct keyword names such as tips.tennis and finals.tennis to broader brandable words like Acup.tennis, Trex.tennis, and geton.tennis. For founders, the main question is whether the word is easy to remember, easy to say, and clearly relevant to a tennis audience. For investors, the focus is usually tighter: buy-in discipline, renewal exposure, and whether the term has obvious resale appeal inside the tennis niche. With a median ask of 78.81, this set leans toward lower entry pricing, but quality still depends on clarity, relevance, and avoidable trademark risk.
+This set covers one-word domain names on the .tennis extension, spanning everyday words, action phrases, and short brandable strings like playin.tennis, messages.tennis, and getmarried.tennis. With 12,684 domains and a median asking price near $72, the list offers a wide range of price points and naming styles within a single sports-adjacent niche. Because .tennis is a lesser-known TLD, buyers should weigh brandability and renewal cost against the recognition of more mainstream extensions before committing.
 
-- Prefer words that read cleanly before .tennis
-- Use price discipline; median ask here is 78.81
-- Generic tennis terms usually beat obscure wording
-- Check trademark exposure on coined or branded terms
+- 12,684 one-word .tennis domains available across price points
+- Median asking price near $72 for domains in this selection
+- Short, brandable names like playin.tennis and gearup.tennis
+- Niche TLD — weigh renewal cost against mainstream extension recognition
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
