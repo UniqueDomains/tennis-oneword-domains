@@ -40,16 +40,16 @@ e14a0bad-2b65-4e3c-84ca-3f93db38e71c,artless.tennis,available,65.99,65.99,low,lo
 cdedc347-ff29-414b-9d96-858c802a04bf,channukah.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 87e3a654-084d-4110-a601-4d53cffb4cfc,feb.tennis,available,65.99,65.99,high,low,3,namesilo,,,
 41d0afa0-0bdf-4728-ab2d-44d0f3deb3f1,gather.tennis,available,80.99,86.99,high,low,6,name.com,,,
-e8aa6746-8e6a-44c5-9546-5c7229b9707c,setabout.tennis,available,80.99,,medium,low,9,name.com,,,
+e8aa6746-8e6a-44c5-9546-5c7229b9707c,setabout.tennis,available,65.99,65.99,medium,low,9,namesilo,,,23/09/2026 02:19
 dda8dd55-22cf-4e79-b29a-5919fefb716e,boer.tennis,available,65.99,65.99,low,low,4,namesilo,,,
 c6df28b7-d064-4285-8497-66c691382b72,generalpractice.tennis,available,65.99,65.99,high,low,16,namesilo,,,
 760f897e-aacf-4813-b6df-54815c409806,annelid.tennis,available,65.99,65.99,low,low,7,namesilo,,,
 224d9079-71ee-4ddb-9cf5-24f4ee4f0011,redsquare.tennis,available,65.99,65.99,low,low,10,namesilo,,,
-1d91f48f-9c80-4ce0-9702-2e464c4af7ab,brandnew.tennis,available,65.99,65.99,high,low,9,namesilo,,,
+1d91f48f-9c80-4ce0-9702-2e464c4af7ab,brandnew.tennis,available,65.99,65.99,medium,low,9,namesilo,,,23/09/2026 02:16
 fe984573-a62d-4e6a-8657-f5cdaf7f03cc,lifelesson.tennis,available,80.99,,high,low,11,name.com,,,
 96457582-ee09-4e65-ad6c-d6fb712ee019,roger.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 17a6602e-f2e6-40ba-bfb4-a4b91bb4b099,hospital.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
-84c02dc8-e9b3-465f-a7a1-596f9290b4f2,overnight.tennis,available,80.99,86.99,high,low,9,name.com,,,
+84c02dc8-e9b3-465f-a7a1-596f9290b4f2,overnight.tennis,available,65.99,65.99,medium,low,9,namesilo,,,22/09/2026 00:44
 eeed2e1c-b3e3-4c31-9937-e5d992602e20,orchestra.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 b895c4f6-6af9-4286-878f-8b1a511fc55a,batrachian.tennis,available,65.99,65.99,low,low,10,namesilo,,,05/08/2026 20:53
 bc1de53f-4a7b-4ba7-bd0e-83d9e11d0305,takebystorm.tennis,available,65.99,65.99,low,low,13,namesilo,,,
@@ -77,7 +77,7 @@ eb10a838-b8e2-4c6a-a2bf-967b3bb344d0,hungry.tennis,available,65.99,65.99,high,lo
 c764059c-25b7-46e0-b168-a0feafddd28a,confusing.tennis,available,80.99,86.99,medium,low,9,name.com,,,
 c2563bb5-8f09-48d9-b8e9-817577b0c158,crackers.tennis,available,65.99,65.99,low,low,8,namesilo,,,06/08/2026 20:45
 2273db4f-be14-46c1-a17e-f7a7acf1bcf7,spermcell.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
-851c5acf-1359-46d6-b64a-c432d0b17f28,caper.tennis,available,80.99,,high,low,5,name.com,,,
+851c5acf-1359-46d6-b64a-c432d0b17f28,caper.tennis,available,65.99,65.99,medium,low,5,namesilo,,,22/09/2026 06:32
 bee0077d-bc20-4149-9573-871da22894dd,deserted.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 a93f35b8-b21d-4b99-aaf6-0cd727a1eb2b,limitation.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 c130bbfc-94e8-4c91-8819-e965c988ff82,temporary.tennis,available,65.99,65.99,high,low,9,namesilo,,,
@@ -87,7 +87,6 @@ c1b2a7f3-cf13-43aa-9642-16420c1a8f65,bee.tennis,available,65.99,65.99,high,mediu
 317cbca0-e270-4d39-a115-6d6ee73d1e23,distinguished.tennis,available,65.99,65.99,medium,low,13,namesilo,,,
 21c4286d-c511-4774-99ec-a00c1dc49df0,component.tennis,available,80.99,86.99,high,low,9,name.com,,,
 781b78ed-e256-4c8b-af2d-a8dab5e7bd82,acanthous.tennis,available,65.99,65.99,low,low,9,namesilo,,,
-1c9ff9f2-f55c-4093-b560-25cb9007060c,fire.tennis,available,,,high,medium,4,,,,
 49582cda-c769-4c8a-adc0-42f5f73783ca,ribald.tennis,available,65.99,65.99,low,low,6,namesilo,,,09/08/2026 02:15
 0bbbd071-083f-4ce4-85a2-349b2e7b1610,ascribable.tennis,available,65.99,65.99,low,low,10,namesilo,,,07/08/2026 01:17
 07d098fa-8c6c-4f0b-a174-f690f3fd6a6e,briefs.tennis,available,80.99,,high,low,6,name.com,,,
@@ -119,17 +118,17 @@ f4fb7c0f-afdb-470c-90c1-59ea62be8e19,albinal.tennis,available,65.99,65.99,low,lo
 5b964551-fc02-42a8-863a-ea62df6fad38,elvis.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 10513fa3-f724-4ea6-a44c-da71c6503968,nightmare.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 f8052d63-408e-4c5e-b044-f4de282a50e1,rider.tennis,available,65.99,65.99,high,low,5,namesilo,,,
-b00e5c41-9b0c-4041-9c7c-9666983bb65a,aesthetic.tennis,available,80.99,86.99,high,low,9,name.com,,,
+b00e5c41-9b0c-4041-9c7c-9666983bb65a,aesthetic.tennis,available,67.98,81.98,medium,low,9,namecheap,,,21/09/2026 21:10
 e188ff3d-c347-491b-80c4-7ff4126505d3,streetart.tennis,available,80.99,,medium,low,10,name.com,,,
 e61e6ff1-7331-4c7c-a682-cf741282ab50,manyatime.tennis,available,80.99,,medium,low,11,name.com,,,
 98ae5d69-af47-4528-a3e0-e8b2f824012e,abient.tennis,available,65.99,65.99,low,low,6,namesilo,,,
 2e5e1086-549b-401f-b272-b6263d710922,letgo.tennis,available,65.99,65.99,high,low,6,namesilo,,,
-117bc8cb-61af-4e71-b8ce-7c346ade4acd,mail.tennis,available,65.99,65.99,medium,low,4,namesilo,,,19/09/2026 05:07
+117bc8cb-61af-4e71-b8ce-7c346ade4acd,mail.tennis,available,65.99,65.99,medium,low,4,namesilo,,,23/09/2026 04:59
 fe478f19-00c3-47d2-a7ff-9422a57ad7ac,lag.tennis,available,65.99,65.99,medium,low,3,namesilo,,,
-d66fbfbe-f82e-4591-9fb2-02bc3f0edc0c,stellar.tennis,available,80.99,,high,medium,7,name.com,,,
+d66fbfbe-f82e-4591-9fb2-02bc3f0edc0c,stellar.tennis,available,65.99,65.99,medium,low,7,namesilo,,,22/09/2026 10:32
 5f538bf2-db21-4f23-a192-d790b6815160,laws.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 47b8f83d-5824-4b8d-aef9-d8cdafacf159,hotpepper.tennis,available,65.99,65.99,high,low,10,namesilo,,,
-1a10777e-1202-4240-b8db-279805e61e10,gas.tennis,available,65.99,65.99,high,low,3,namesilo,,,
+1a10777e-1202-4240-b8db-279805e61e10,gas.tennis,available,65.99,65.99,low,low,3,namesilo,,,23/09/2026 01:57
 3a3b496b-02eb-4faa-a35d-8da31358c22a,environmentally.tennis,available,65.99,65.99,medium,low,15,namesilo,,,
 63bc48e3-335c-4aed-9a55-209a0fab95fa,bush.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
 f0e25a75-fa04-4e7b-a8ba-fb65c2d73553,conventionally.tennis,available,65.99,65.99,medium,low,14,namesilo,,,
@@ -137,8 +136,8 @@ d5c1f504-ce34-44f8-8be8-ca734e834407,aleuronic.tennis,available,65.99,65.99,low,
 e0768014-f663-49f2-a06e-3257292129ce,nice.tennis,available,80.99,86.99,high,medium,4,name.com,,,
 fcf89c14-ad6b-4171-a11f-d1e6ded1e418,translation.tennis,available,65.99,65.99,medium,low,11,namesilo,,,
 359a0440-c554-4d8b-a0ef-4ea7da10606a,neverending.tennis,available,80.99,,low,low,12,name.com,,,
-a4c3e893-ecb9-41f2-8dc3-bfd5b98cca61,discovered.tennis,available,80.99,,medium,low,10,name.com,,,
-12ce5be2-3679-4ff3-951a-9dc784d48425,devices.tennis,available,67.98,81.98,medium,low,7,namecheap,,,19/09/2026 10:40
+a4c3e893-ecb9-41f2-8dc3-bfd5b98cca61,discovered.tennis,available,65.99,65.99,low,low,10,namesilo,,,22/09/2026 09:21
+12ce5be2-3679-4ff3-951a-9dc784d48425,devices.tennis,available,67.98,81.98,medium,low,7,namecheap,,,23/09/2026 04:05
 cafe4972-857c-44cf-bc29-84988391bf58,enlivening.tennis,available,65.99,65.99,low,low,10,namesilo,,,
 92898102-234a-44d3-a1b9-f9e0474b8fee,campaign.tennis,available,65.99,65.99,high,low,8,namesilo,,,
 e9996436-1f2e-4a0f-8182-1ed63080d6eb,lastly.tennis,available,80.99,,medium,low,6,name.com,,,
@@ -157,7 +156,7 @@ f8fe5ad3-91ab-4563-bb02-ec8d5f0b57d2,fiercely.tennis,available,80.99,,medium,low
 7e160672-27a3-4d60-8be0-243cb8ba89e3,unused.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 23275435-e85e-4e0e-95fe-593e36460685,smell.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 4e6157b9-e561-4d80-b0b7-dd461e3855bd,painful.tennis,available,65.99,65.99,low,low,7,namesilo,,,
-194c0968-f373-4932-a7c2-0ade26100b1a,agile.tennis,available,80.99,86.99,high,medium,5,name.com,,,
+194c0968-f373-4932-a7c2-0ade26100b1a,agile.tennis,available,65.99,65.99,medium,low,5,namesilo,,,21/09/2026 23:00
 7e9e338d-8908-4c2a-a328-ae1269ca6f98,finally.tennis,available,65.99,65.99,high,low,7,namesilo,,,
 e9b95d37-0e31-4577-8961-c60e166c2af8,bastioned.tennis,available,65.99,65.99,low,low,9,namesilo,,,09/08/2026 00:12
 8aa7307d-e40c-40b6-8fb5-998a78fe9c12,further.tennis,available,65.99,65.99,high,low,7,namesilo,,,
@@ -179,7 +178,7 @@ ae50d09b-2481-45d0-9176-c00d786f64fa,lightly.tennis,available,65.99,65.99,medium
 fecc2965-5dfd-4f93-ad80-6ae2554b4c26,ignore.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 a67abed4-43bc-47ac-bc31-d02e5ba3e157,geek.tennis,available,80.99,86.99,high,low,4,name.com,,,
 0de9e511-8960-4024-b831-8d510c76d316,aberrant.tennis,available,65.99,65.99,low,low,8,namesilo,,,
-8e8fd593-11b1-48cb-8c3b-6aa5de91543a,alone.tennis,available,80.99,86.99,high,low,5,name.com,,,
+8e8fd593-11b1-48cb-8c3b-6aa5de91543a,alone.tennis,available,67.98,81.98,low,low,5,namecheap,,,22/09/2026 01:57
 915017fc-509b-4e97-9c01-8bbf96bee10d,analytical.tennis,available,65.99,65.99,low,low,10,namesilo,,,
 c77fcdf6-3971-4398-9bc5-42b73859c15a,quickness.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 8f5b0e9e-77ba-4dbe-9dc8-1c8b4b578d4d,observer.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
@@ -190,12 +189,12 @@ c77fcdf6-3971-4398-9bc5-42b73859c15a,quickness.tennis,available,65.99,65.99,high
 86a29175-092f-4e27-832a-535e1ac58841,remover.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
 087f1a98-8176-445f-bbea-726e9dfbb55a,sensory.tennis,available,65.99,65.99,high,low,7,namesilo,,,
 b8deabee-bf33-4779-8aac-bee1ab79a9b8,findout.tennis,available,65.99,65.99,high,low,8,namesilo,,,
-11d1b7b3-8ed3-47ae-9d07-4d73eea0fe30,helper.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
+11d1b7b3-8ed3-47ae-9d07-4d73eea0fe30,helper.tennis,available,65.99,65.99,low,low,6,namesilo,,,22/09/2026 09:58
 c0106f67-7fe9-41e3-88e0-184a2e55e270,scheme.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 43789d07-475c-439b-96ca-d5172e26446d,gopublic.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 f1b6126b-86a3-46bc-bb31-822dc7794140,advertent.tennis,available,65.99,65.99,low,low,9,namesilo,,,
 1196f1ee-c159-45b9-810f-de5091d797bd,eolian.tennis,available,65.99,65.99,low,low,6,namesilo,,,
-ce0d3863-c8ee-40b3-a568-29bd8a8d8b05,joke.tennis,available,80.99,,high,low,4,name.com,,,
+ce0d3863-c8ee-40b3-a568-29bd8a8d8b05,joke.tennis,available,65.99,65.99,medium,low,4,namesilo,,,22/09/2026 06:20
 56506602-09d2-4aec-a85b-a0f8758b8eaf,purchase.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 eac694f0-8827-4eb4-9d62-fbe3667988c5,embracing.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 ed569c3c-6a89-4411-b0a2-bd60eff31eb9,youth.tennis,premium,242,242,high,low,5,namesilo,,,
@@ -235,16 +234,16 @@ e43b761d-3776-4733-9d9f-5170c75c2463,stars.tennis,available,65.99,65.99,high,low
 a4b829fd-bfa4-49c4-a7dc-9441d05e1849,dandy.tennis,available,65.99,65.99,low,low,5,namesilo,,,08/08/2026 12:30
 adfe523d-4ab3-4fba-b185-625df3cc3219,alchemic.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 00114a0a-506b-4a25-aef4-ba8e20e7c752,animals.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
-a804a946-4f5f-4656-92e1-36733d69050d,premarital.tennis,available,80.99,,high,low,10,name.com,,,
+a804a946-4f5f-4656-92e1-36733d69050d,premarital.tennis,available,65.99,65.99,medium,low,10,namesilo,,,22/09/2026 06:09
 927802c2-2fcf-43f0-9b9a-a0b7216f3f31,evacuate.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 9b994475-1a02-4d38-b994-dbd9f5d628bf,hawkeyed.tennis,available,65.99,65.99,low,low,9,namesilo,,,06/08/2026 18:43
 d8646daa-0322-4ab9-b01a-b06ce45c256f,communicate.tennis,available,65.99,65.99,high,low,11,namesilo,,,
 680d999e-d39f-4aaf-8278-2ecb6fc40028,cnn.tennis,available,65.99,65.99,high,low,3,namesilo,,,
 7c8d38a1-162e-4b2f-8c4e-b787f92f5891,grip.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 0a8f9de9-e767-4907-8936-56eb67590f5e,sweetandsour.tennis,available,65.99,65.99,high,low,14,namesilo,,,
-4b6ba562-b9ff-45ba-a2ce-b0881d71e9e3,allegro.tennis,available,80.99,86.99,high,low,7,name.com,,,
+4b6ba562-b9ff-45ba-a2ce-b0881d71e9e3,allegro.tennis,available,67.98,81.98,medium,low,7,namecheap,,,22/09/2026 01:21
 a505b697-8add-4d88-9584-31d8da2fd3a1,tormented.tennis,available,65.99,65.99,low,low,9,namesilo,,,
-4d61c9e1-da53-4fcf-81ee-751638f80203,marchon.tennis,available,80.99,86.99,medium,low,8,name.com,,,
+4d61c9e1-da53-4fcf-81ee-751638f80203,marchon.tennis,available,67.98,81.98,low,low,8,namecheap,,,21/09/2026 20:39
 2fa6ae11-b5c7-4da6-9530-017db75134f1,anabatic.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 9793dc10-61d3-4c65-a39f-00d86cddcb11,rose.tennis,available,80.99,,high,medium,4,name.com,,,
 7953035d-5ef0-4177-b099-d076435cd5ee,hybrid.tennis,available,65.99,65.99,high,low,6,namesilo,,,
@@ -258,7 +257,7 @@ c355f049-f7f5-48c8-a620-b3a37561c985,eighth.tennis,available,65.99,65.99,low,low
 e5b57e15-9d86-46e7-bf1d-f4c3ac373272,havetherighttime.tennis,available,80.99,,medium,low,19,name.com,,,
 bdb86293-db59-4e71-901c-88123733b20d,significantly.tennis,available,65.99,65.99,medium,low,13,namesilo,,,
 0b956ec9-9ec4-4fe6-8f8d-31d7dec02b67,sexhair.tennis,available,80.99,,low,low,8,name.com,,,
-3ec60ca6-6f84-4675-8de0-a6a8b2c5cbeb,elderly.tennis,available,80.99,86.99,high,low,7,name.com,,,
+3ec60ca6-6f84-4675-8de0-a6a8b2c5cbeb,elderly.tennis,available,65.99,65.99,medium,low,7,namesilo,,,21/09/2026 22:30
 544edf6b-bcef-45ac-ac7c-912ebf82bb9c,maybe.tennis,available,80.99,,high,low,5,name.com,,,
 7ac44260-d61b-4e40-a9d0-c89169def48c,atrial.tennis,available,65.99,65.99,low,low,6,namesilo,,,07/08/2026 14:24
 943d9b88-c28e-4555-b9fa-3f047bf4ce1a,alfresco.tennis,available,65.99,65.99,low,low,8,namesilo,,,
@@ -278,7 +277,7 @@ ced0e6ce-5472-479d-a3c8-f9cd9f6ef334,lxviii.tennis,available,65.99,65.99,low,low
 97c649cf-34ba-4a6f-8e04-34ebdc5be549,richmond.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 32e0d548-c3b3-405e-973e-fa493d0ee1c3,wages.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 0fcda205-70e2-46a2-b2a7-3d3669929739,nowandagain.tennis,available,65.99,65.99,low,low,13,namesilo,,,
-53962bdb-b023-4570-b722-a9cc4126759d,asthmatic.tennis,available,80.99,,medium,low,9,name.com,,,
+53962bdb-b023-4570-b722-a9cc4126759d,asthmatic.tennis,available,65.99,65.99,low,low,9,namesilo,,,22/09/2026 10:23
 a9bbe710-a8ca-4769-8514-cc9ed8b75ecc,earliest.tennis,available,80.99,86.99,medium,low,8,name.com,,,
 fe4e2aad-048e-4761-9555-80deb6858fc7,getoutofmyface.tennis,available,80.99,,medium,low,18,name.com,,,
 50f86833-9a88-4693-ba35-39eb7828262e,present.tennis,available,65.99,65.99,high,low,7,namesilo,,,
@@ -300,7 +299,7 @@ ac4b572f-ff9b-4461-8d0e-a526620740ba,ambivalent.tennis,available,65.99,65.99,low
 6ff9717a-cac1-4647-a852-b06d614fce2d,buster.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 807f0216-1165-4aaa-9b82-c37314001d42,interpret.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 f05cce06-1003-4546-80a5-8c84477a05d6,peace.tennis,available,65.99,65.99,high,low,5,namesilo,,,
-dabd9e52-9abf-4ee6-80da-ad46e6186144,border.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
+dabd9e52-9abf-4ee6-80da-ad46e6186144,border.tennis,available,65.99,65.99,low,low,6,namesilo,,,23/09/2026 00:10
 076f9d7b-2ce9-42b9-8b34-5fbbe8aa9430,secret.tennis,available,65.99,65.99,high,medium,6,namesilo,,,
 6e172681-3ad3-4464-a407-1e875ab537e2,restructure.tennis,available,65.99,65.99,high,low,11,namesilo,,,
 702dca46-8200-425a-bd36-b2e9807b0c15,aug.tennis,available,65.99,65.99,low,low,3,namesilo,,,07/08/2026 17:10
@@ -308,7 +307,7 @@ a42e4d94-d5fc-41a8-9777-85f30e383e1c,pretty.tennis,available,65.99,65.99,high,lo
 a2139805-6cc4-4bd6-bce3-870318d92926,afghani.tennis,available,65.99,65.99,low,low,7,namesilo,,,
 d53fd29d-8beb-4ed8-a7e5-633df22d26ee,themself.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 37b9d867-02da-48a3-b4dc-dd9c4358d296,whitesmoke.tennis,available,65.99,65.99,low,low,11,namesilo,,,
-8ab0e27c-0e15-4fdc-b071-00914c2ad159,sensation.tennis,available,80.99,86.99,high,low,9,name.com,,,
+8ab0e27c-0e15-4fdc-b071-00914c2ad159,sensation.tennis,available,65.99,65.99,medium,low,9,namesilo,,,21/09/2026 17:34
 2a85a41f-c4af-45d1-8931-b24e5fffc5f3,volleyball.tennis,available,65.99,65.99,high,low,10,namesilo,,,
 00e3cdd2-74cd-4234-b79c-b95d9b2ec483,yur.tennis,available,65.99,65.99,high,low,3,namesilo,,,
 b8850d6b-5132-49fe-9c46-ccad4fbf42a0,quiteafew.tennis,available,65.99,65.99,medium,low,11,namesilo,,,
@@ -316,7 +315,7 @@ b8850d6b-5132-49fe-9c46-ccad4fbf42a0,quiteafew.tennis,available,65.99,65.99,medi
 acf3043c-6671-4d03-ba23-e05e523b087d,redemption.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 9c342069-2fea-47b3-8296-30435d73febd,emotive.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
 e29a6ab7-bbdf-4926-8468-e0e08c458c20,orangutan.tennis,available,65.99,65.99,high,low,9,namesilo,,,
-cc905a8e-a593-455c-82e0-667126d568a2,extra.tennis,available,80.99,86.99,high,low,5,name.com,,,
+cc905a8e-a593-455c-82e0-667126d568a2,extra.tennis,available,65.99,65.99,medium,low,5,namesilo,,,21/09/2026 17:12
 cc7e1cfe-3c5d-445a-8bd4-6c360f883533,burning.tennis,available,65.99,65.99,high,low,7,namesilo,,,
 ce1a7172-914d-42ff-9390-74e849740d4d,tasking.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
 a2da5bdb-a541-4489-aafe-b6ecb48ff21d,passionately.tennis,available,65.99,65.99,medium,low,12,namesilo,,,
@@ -325,7 +324,7 @@ f5672a96-f2bb-4d46-9622-5f2935d52819,verify.tennis,available,80.99,,high,medium,
 1d3f7abc-14b5-49bd-a2ef-7fb91106b8dd,allies.tennis,available,65.99,65.99,high,low,6,namesilo,,,
 9dc039f3-5377-4639-9d1e-58d6d9a8d946,veer.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 1cdd72fc-4ce1-4bee-bb66-a06e22b4b88d,textbook.tennis,available,65.99,65.99,high,low,8,namesilo,,,
-cae88a29-3bc0-4b6b-b189-80c55479862f,accessory.tennis,available,80.99,86.99,high,low,9,name.com,,,
+cae88a29-3bc0-4b6b-b189-80c55479862f,accessory.tennis,available,65.99,65.99,medium,low,9,namesilo,,,21/09/2026 15:35
 9f27c648-c149-4c72-8022-db2750a96b54,pizzapie.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 1e6de35c-6605-4764-9586-4f013401d223,notes.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
 bded3de3-0387-434e-921b-f126dcdb1b7b,salary.tennis,available,65.99,65.99,high,low,6,namesilo,,,
@@ -340,7 +339,7 @@ d0f91381-8e91-4721-b20b-341374159686,asiatic.tennis,available,65.99,65.99,low,lo
 7f73930b-5bb2-4f7a-b5b9-4803da29f42f,philips.tennis,available,,,high,low,7,,,,
 d46678bf-78ca-4a75-b572-43944b38faa3,marihuana.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 d4034b4a-e1b4-4cea-a71d-e46dda994d6f,daft.tennis,available,65.99,65.99,low,low,4,namesilo,,,06/08/2026 20:50
-6f30cf06-40c5-4647-8ba7-95ee7961dd00,atomic.tennis,available,80.99,,high,medium,6,name.com,,,
+6f30cf06-40c5-4647-8ba7-95ee7961dd00,atomic.tennis,available,80.99,86.99,low,low,6,name.com,,,22/09/2026 11:03
 241ed62f-f795-4d02-98dd-d1461e6cd461,agnatic.tennis,available,65.99,65.99,low,low,7,namesilo,,,
 040176c6-41b4-4866-bd3b-26361fbeadbb,voluntarily.tennis,available,65.99,65.99,medium,low,11,namesilo,,,
 16f01657-3164-438d-9056-2e5d99fe8b59,phony.tennis,available,65.99,65.99,low,low,5,namesilo,,,08/08/2026 23:09
@@ -379,10 +378,10 @@ ed8d86fc-cae9-40ac-b3a3-9cf4c36bf4d7,munich.tennis,available,80.99,,medium,low,6
 e2968be3-b485-444f-b497-f3db3b3ba884,wintersun.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 0476a3aa-68f1-40e6-9e21-33a6039b6765,showed.tennis,available,65.99,65.99,low,low,6,namesilo,,,
 c4456dab-c7a2-49c1-9af6-2c2c90f8ae83,acuminate.tennis,available,65.99,65.99,low,low,9,namesilo,,,
-e4dfb4df-bd00-4035-8665-9c836d1c1b98,whiz.tennis,available,80.99,86.99,high,low,4,name.com,,,
+e4dfb4df-bd00-4035-8665-9c836d1c1b98,whiz.tennis,available,67.98,81.98,medium,low,4,namecheap,,,21/09/2026 18:01
 cab9b1af-6719-4e60-9038-a78d2c6c7227,arresting.tennis,available,65.99,65.99,low,low,9,namesilo,,,06/08/2026 21:47
 a68bcbfa-74d0-4c4f-8bb2-6d41a6afad9f,oneself.tennis,available,65.99,65.99,high,low,7,namesilo,,,
-d0a4e85b-9008-4540-98aa-65620b04b272,abdominal.tennis,available,80.99,86.99,high,low,9,name.com,,,
+d0a4e85b-9008-4540-98aa-65620b04b272,abdominal.tennis,available,65.99,65.99,low,low,9,namesilo,,,21/09/2026 13:47
 0ab0af50-853d-4e7a-a27c-a7f75ac4f162,decay.tennis,available,80.99,,high,low,5,name.com,,,
 ff3eb971-ec7a-41c8-9b83-597ba5ca3941,therealityis.tennis,available,65.99,65.99,low,low,14,namesilo,,,
 8a250c87-18bc-43b4-b2cb-7f1102e18ab2,bedimmed.tennis,available,65.99,65.99,low,low,8,namesilo,,,09/08/2026 07:18
@@ -396,7 +395,7 @@ a3a886e3-404a-40c2-aa80-12e3da0bb462,accurst.tennis,available,65.99,65.99,low,lo
 86613210-2085-4ab7-883d-151092075867,bawdry.tennis,available,65.99,65.99,low,low,6,namesilo,,,09/08/2026 02:21
 03eff7e3-4932-41a5-8f97-1e282153b34f,spoon.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 85229ef8-1561-41da-bdbc-d9104fdb33f6,wired.tennis,available,65.99,65.99,high,low,5,namesilo,,,
-b0b0be0e-3c83-4656-9b90-a0e47ab4438a,small.tennis,available,65.99,65.99,high,low,5,namesilo,,,
+b0b0be0e-3c83-4656-9b90-a0e47ab4438a,small.tennis,available,80.99,86.99,medium,low,5,name.com,,,22/09/2026 19:21
 ebca7c4a-096d-4c1b-a7d8-20d232cda0d0,ethnic.tennis,available,80.99,,high,low,6,name.com,,,
 8342938a-4166-4e61-9d17-249a0d800b0f,introduced.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 91415024-b767-4b90-8bef-6f5883b61c34,threesome.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
@@ -405,12 +404,12 @@ a40acf93-7d0e-4bd7-9368-6db21f359e04,airlike.tennis,available,65.99,65.99,low,lo
 8d02f9b5-5395-46c0-803b-5ca9200c941c,keepscore.tennis,available,65.99,65.99,high,low,10,namesilo,,,
 8db09708-5a41-4faa-b9ae-fa9f21f274b2,motherfukkah.tennis,available,65.99,65.99,medium,low,12,namesilo,,,
 678640aa-8902-47f5-b58a-4f99de4d5836,mouth.tennis,available,65.99,65.99,medium,low,5,namesilo,,,08/09/2026 03:51
-e4c3917d-b7e2-43e8-867e-527fe7ee646e,fillin.tennis,available,65.99,65.99,high,low,7,namesilo,,,
-6684800a-99a2-4327-8f42-53d4fb9b094f,whatsoever.tennis,available,80.99,,medium,low,10,name.com,,,
+e4c3917d-b7e2-43e8-867e-527fe7ee646e,fillin.tennis,available,65.99,65.99,low,low,7,namesilo,,,21/09/2026 16:17
+6684800a-99a2-4327-8f42-53d4fb9b094f,whatsoever.tennis,available,65.99,65.99,low,low,10,namesilo,,,22/09/2026 06:59
 5f3cbb9f-fd5d-477a-b4a8-64088a2628ce,carryout.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 61f09ef2-e728-4aeb-a3e5-356733b7e60e,oflate.tennis,available,80.99,,medium,low,7,name.com,,,
 5c84dcee-f136-441b-836d-dffd160efa6f,shaking.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
-625c6660-59cf-4882-84ce-ff3b6a83451d,capable.tennis,available,80.99,86.99,high,low,7,name.com,,,
+625c6660-59cf-4882-84ce-ff3b6a83451d,capable.tennis,available,67.98,81.98,medium,low,7,namecheap,,,21/09/2026 18:33
 97450809-f505-4462-945b-fb8995a43342,fallfor.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 ee9eff2d-313e-43be-b1d1-45b35f222ff0,fix.tennis,available,65.99,65.99,medium,low,3,namesilo,,,
 a76c7562-0033-4de4-9dd9-0857fcab3551,mmr.tennis,available,65.99,65.99,high,low,3,namesilo,,,
@@ -455,14 +454,14 @@ a42afdf1-2ef8-4be3-a7cd-f991a1f8369d,indiana.tennis,premium,78.54,78.54,medium,l
 e248d06b-1e6e-4275-9fb5-92fbb77357c1,expose.tennis,available,65.99,65.99,high,low,6,namesilo,,,
 ab09392f-290d-4308-9375-217e50b90196,lifeprotip.tennis,available,65.99,65.99,high,low,12,namesilo,,,
 edfc2a80-951b-4abe-b353-5daafd4c2455,kleenex.tennis,available,65.99,65.99,high,low,7,namesilo,,,
-751d5977-f645-4d45-bc62-7d733f573ef5,accident.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
+751d5977-f645-4d45-bc62-7d733f573ef5,accident.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 f4c0c844-8ce1-4ee2-8eef-f6bfd95e18ad,gingerbreadman.tennis,available,65.99,65.99,high,low,15,namesilo,,,
-013315d3-0565-4fd2-845e-4857db9f33aa,rise.tennis,available,80.99,,medium,medium,4,name.com,,,
+013315d3-0565-4fd2-845e-4857db9f33aa,rise.tennis,available,65.99,65.99,low,low,4,namesilo,,,22/09/2026 09:12
 71a206fe-2479-4ca3-860f-96029de46ff6,inhale.tennis,available,65.99,65.99,high,low,6,namesilo,,,
 1dfac01a-b80f-4709-987f-6f06549ae3bb,advised.tennis,available,65.99,65.99,low,low,7,namesilo,,,19/09/2026 08:43
 fb24b20d-ed40-46cc-a2a3-772f03ede367,youknowit.tennis,available,65.99,65.99,high,low,11,namesilo,,,
 ce53a852-10e3-4d8c-8745-9c5a9acfc72a,azo.tennis,available,65.99,65.99,low,low,3,namesilo,,,08/08/2026 02:17
-6c219963-9ac1-4b55-8d9f-e490d285382a,counter.tennis,available,80.99,,high,low,7,name.com,,,
+6c219963-9ac1-4b55-8d9f-e490d285382a,counter.tennis,available,67.98,81.98,medium,low,7,namecheap,,,22/09/2026 05:49
 944b81ce-eabc-4dc3-a660-bd0b1939570e,annotated.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 ba336ba1-92b0-481d-8d0a-069efc5e53d1,tightenup.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 242d2bc3-75f2-4df9-b6f4-428912dc3507,essayquestion.tennis,available,80.99,,medium,low,14,name.com,,,
@@ -482,7 +481,7 @@ bd541cc1-7481-41b3-b6ee-639f6a0cbf2b,optionally.tennis,available,65.99,65.99,med
 8b93299d-4db5-48b6-b4a9-c4120a697f97,ariled.tennis,available,67.98,81.98,low,low,6,namecheap,,,06/08/2026 19:09
 64b82d66-93a2-4fd8-b4ee-a2d33e18c316,congregation.tennis,available,65.99,65.99,high,low,12,namesilo,,,
 48c87f9e-e4e3-424f-96fd-bc363c08e1b6,well.tennis,available,65.99,65.99,high,low,4,namesilo,,,
-7ab8ba50-0170-4858-96f0-f8565300fb67,eternal.tennis,available,80.99,86.99,high,medium,7,name.com,,,
+7ab8ba50-0170-4858-96f0-f8565300fb67,eternal.tennis,available,65.99,65.99,medium,low,7,namesilo,,,21/09/2026 22:47
 37776427-a5c3-4206-9ee3-cab804a009b9,urge.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 efaf2ce7-7f2f-4984-8898-a0cf50ee55a1,anemic.tennis,available,65.99,65.99,low,low,6,namesilo,,,
 f7437635-a8cb-49ee-bb7d-b8da25a3f421,entirely.tennis,available,65.99,65.99,low,low,8,namesilo,,,
@@ -498,11 +497,11 @@ badce277-0d16-4b32-92ca-992715573754,puttobed.tennis,available,65.99,65.99,low,l
 87d9476d-1da4-49d2-8020-9f49e6f5dfff,upto.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
 877b1738-1e95-43e0-8475-9c68f039a878,lettertelegram.tennis,available,65.99,65.99,medium,low,15,namesilo,,,
 b05e8327-f6b8-4111-b781-f046397c7edd,marooned.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
-3221481c-5a81-4c85-8dad-39f3b52a4ba4,addicted.tennis,available,80.99,86.99,high,low,8,name.com,,,
-4078e926-c49e-492b-b570-c54ba7d0ca36,bass.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
-795b195f-f18d-4e6c-baac-a4d789fa7be5,improvise.tennis,available,80.99,86.99,high,low,9,name.com,,,
+3221481c-5a81-4c85-8dad-39f3b52a4ba4,addicted.tennis,available,67.98,81.98,medium,low,8,namecheap,,,21/09/2026 17:07
+4078e926-c49e-492b-b570-c54ba7d0ca36,bass.tennis,available,80.99,86.99,low,low,4,name.com,,,22/09/2026 18:00
+795b195f-f18d-4e6c-baac-a4d789fa7be5,improvise.tennis,available,65.99,65.99,medium,low,9,namesilo,,,21/09/2026 16:45
 cab6315c-4e13-4316-aa38-c74b9163410c,lordly.tennis,available,65.99,65.99,low,low,6,namesilo,,,07/08/2026 17:05
-64d47237-fc47-4bdb-be37-6c31490f3fbe,twentysix.tennis,available,80.99,86.99,high,low,10,name.com,,,
+64d47237-fc47-4bdb-be37-6c31490f3fbe,twentysix.tennis,available,65.99,65.99,medium,low,10,namesilo,,,21/09/2026 12:53
 6500cec6-1a98-4c7a-9688-e62e0bfbc8dd,closely.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
 606c1611-0efc-468d-b879-53305e5b299d,believable.tennis,available,65.99,65.99,low,low,10,namesilo,,,09/08/2026 13:01
 730774a8-919f-4551-a076-bb4a852dbaa0,siri.tennis,available,,,high,low,4,,,,
@@ -515,11 +514,11 @@ e01c1ba0-22f4-4a7e-8b0b-d050297c06be,pastrychef.tennis,available,67.98,81.98,med
 8518879e-1e7b-41b8-84c8-3c0adce45ef5,neck.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 5c42f559-24df-4578-8bc6-816e3aba9705,dying.tennis,available,80.99,86.99,high,low,5,name.com,,,
 38d82e75-d5aa-4f32-a6f2-22cd390fa321,grownup.tennis,available,65.99,65.99,low,low,7,namesilo,,,
-13bee531-c211-44fc-b227-c328ec4cde86,terribly.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
+13bee531-c211-44fc-b227-c328ec4cde86,terribly.tennis,available,65.99,65.99,low,low,8,namesilo,,,22/09/2026 15:23
 bfc93a9a-c95a-447c-8064-3f9484fd23b1,whom.tennis,available,65.99,65.99,low,low,4,namesilo,,,
 b91b93f9-2e77-44a0-a5f4-4592d1328e54,frenchrice.tennis,available,80.99,,high,low,11,name.com,,,
 88de6bcb-a791-47b2-a4f9-8739d5f47379,keepsomeonecompany.tennis,available,65.99,65.99,high,low,20,namesilo,,,
-d24622e1-e2a1-47f9-953c-b5a5eb4f5a0e,abovementioned.tennis,available,65.99,65.99,medium,low,15,namesilo,,,
+d24622e1-e2a1-47f9-953c-b5a5eb4f5a0e,abovementioned.tennis,available,65.99,65.99,low,low,15,namesilo,,,
 2c6bbe6c-95f0-40d0-92ec-05aa601033c8,havetime.tennis,available,80.99,,high,low,9,name.com,,,
 f683c6d1-862b-4125-a9aa-76a64cc70ff2,come.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 4f535e93-1932-441b-bde8-d87c3f0b321e,crap.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
@@ -537,7 +536,7 @@ e4b0a6d3-bd11-4f04-9e8b-256e14b496f9,setfree.tennis,available,65.99,65.99,medium
 8edd22ff-7f04-4cf4-b122-bf841f00ae40,sincere.tennis,available,80.99,86.99,high,low,7,name.com,,,
 f37f8601-9f69-4c6f-9085-321d2520a27e,menu.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 5397915d-8b20-4913-ad65-46ab3b27535a,detective.tennis,available,65.99,65.99,high,low,9,namesilo,,,
-f9adf5c6-7f55-4a81-8eab-528288d484ee,false.tennis,available,80.99,,medium,low,5,name.com,,,
+f9adf5c6-7f55-4a81-8eab-528288d484ee,false.tennis,available,67.98,81.98,low,low,5,namecheap,,,22/09/2026 10:15
 a3e4d46b-b72e-4d76-a63d-80b999e313ca,seals.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
 65e7accf-46b8-4d60-8358-a509ef7eaa49,centre.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 451ba709-ad73-4b6a-b015-e46b0efab316,bellied.tennis,available,65.99,65.99,low,low,7,namesilo,,,09/08/2026 13:25
@@ -554,7 +553,7 @@ c243938d-f082-4ead-b7a6-79ccd4f47d1e,pussy.tennis,available,65.99,65.99,medium,l
 c0aa7093-830c-41a5-b133-51dace147ad4,masterofscience.tennis,available,65.99,65.99,medium,low,17,namesilo,,,
 4fb1be73-3519-4c67-ba20-7f1f8bf8d4b7,giveway.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 7ce4ee8b-e06b-4dd0-a90f-43d0b3c33513,coffin.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
-b3c0693f-c839-4cd2-b869-3595fc953eb6,faded.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
+b3c0693f-c839-4cd2-b869-3595fc953eb6,faded.tennis,available,65.99,65.99,low,low,5,namesilo,,,22/09/2026 11:25
 e522e34e-6fc7-4beb-8938-9ee7ebf2770d,allotted.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 6a4d7f2b-eb5f-4bc6-b34d-6b7ca9f6a7b9,babe.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 ed6a3df7-7f6c-49fc-b45e-701a2d1e16c5,newspaper.tennis,available,65.99,65.99,high,low,9,namesilo,,,
@@ -567,13 +566,13 @@ ea29fc5e-7026-487d-a9ec-ac89746e876c,undirected.tennis,available,65.99,65.99,low
 02fb1025-1752-41ed-a9de-d612f997c73e,compensate.tennis,available,80.99,,high,low,10,name.com,,,
 108d7189-fb90-4dd4-894a-0685587902a6,casual.tennis,available,65.99,65.99,high,low,6,namesilo,,,
 67992339-88e9-40e3-8586-09d484d0c20f,headup.tennis,available,80.99,,high,low,7,name.com,,,
-c1a9d4b0-c743-434f-87bb-b65b905ce032,abstract.tennis,available,80.99,86.99,high,low,8,name.com,,,
+c1a9d4b0-c743-434f-87bb-b65b905ce032,abstract.tennis,available,65.99,65.99,medium,low,8,namesilo,,,21/09/2026 15:10
 cd47283a-a814-4a96-8a06-068038618908,collectivenoun.tennis,available,65.99,65.99,high,low,15,namesilo,,,
 432143e3-6d19-4c06-9073-f29c3fd22d0f,xcviii.tennis,available,65.99,65.99,low,low,6,namesilo,,,
 f7d2f23d-56c6-44d4-b397-859ff124dfef,opposite.tennis,available,80.99,86.99,high,low,8,name.com,,,
-08504a0a-f448-485a-8113-35bfa93f7f09,nineteen.tennis,available,80.99,86.99,high,low,8,name.com,,,
+08504a0a-f448-485a-8113-35bfa93f7f09,nineteen.tennis,available,65.99,65.99,medium,low,8,namesilo,,,21/09/2026 12:05
 4cc54505-ba0c-4461-9713-2289acdc1f4d,anyone.tennis,available,80.99,,medium,low,6,name.com,,,
-3df1d3f9-b789-4f20-8831-82c540d749dd,attendant.tennis,available,80.99,86.99,high,low,9,name.com,,,
+3df1d3f9-b789-4f20-8831-82c540d749dd,attendant.tennis,available,67.98,81.98,medium,low,9,namecheap,,,21/09/2026 15:40
 90e4dc2d-a5e2-4a99-b2f6-1cceb5aab2c6,ambagious.tennis,available,65.99,65.99,low,low,9,namesilo,,,
 3ef14aad-777e-4954-b1da-7efcb2337f1d,anaglyptic.tennis,available,65.99,65.99,low,low,10,namesilo,,,
 b2741063-5070-4b76-9a13-a5c8d80c7913,assemblyline.tennis,available,65.99,65.99,high,low,13,namesilo,,,
@@ -591,12 +590,12 @@ a7494d0a-2010-481f-81c5-ccde9161d32c,onschedule.tennis,available,65.99,65.99,hig
 810e50e1-9125-41c9-aaf1-0a863b317208,xxxvi.tennis,available,65.99,65.99,low,low,5,namesilo,,,
 82ada586-0e28-41d7-926a-e01f15b6a1a4,grandnephew.tennis,available,65.99,65.99,high,low,11,namesilo,,,
 0b353fad-90f8-4d66-94b9-c41f3dafbdf5,allergist.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
-9c82086c-ae4f-4130-a278-1dea132e65c5,whizz.tennis,available,80.99,86.99,high,low,5,name.com,,,
+9c82086c-ae4f-4130-a278-1dea132e65c5,whizz.tennis,available,67.98,81.98,medium,low,5,namecheap,,,21/09/2026 18:06
 b7598352-43a5-402b-b102-9b12c89d05e5,batholitic.tennis,available,65.99,65.99,low,low,10,namesilo,,,09/08/2026 01:30
 cb800c30-2b19-42a4-8d8d-0424e3b74847,incommon.tennis,available,80.99,,medium,low,9,name.com,,,
 32fe07c5-5e94-49a4-9929-e0f78c2c176f,brow.tennis,available,80.99,,medium,low,4,name.com,,,
 b0cf7b35-3fc1-4575-b295-add75c2789d0,worth.tennis,available,65.99,65.99,high,low,5,namesilo,,,
-9131c278-66b8-4eed-988b-42f1ac951645,tough.tennis,available,65.99,65.99,high,low,5,namesilo,,,
+9131c278-66b8-4eed-988b-42f1ac951645,tough.tennis,available,67.98,81.98,medium,low,5,namecheap,,,22/09/2026 16:19
 b346fd6d-6db8-4729-8a24-f909e6d39f95,boxers.tennis,available,80.99,,high,low,6,name.com,,,
 42e40e21-cf7b-4d8b-b932-def72391031c,appropriately.tennis,available,80.99,,medium,low,13,name.com,,,
 62fcf81e-7374-430d-8de0-c7ed56c35f6f,forecloser.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
@@ -607,9 +606,9 @@ a06c7791-881f-4421-af5e-f9c6f985155a,aversive.tennis,available,65.99,65.99,low,l
 d9533384-bb40-4af9-a234-97a84da45fd8,banging.tennis,available,65.99,65.99,low,low,7,namesilo,,,08/08/2026 13:03
 49e00b6c-fe08-47e8-a3bd-14d8d7e08757,fauna.tennis,available,65.99,65.99,low,low,5,namesilo,,,
 5bed32af-31bd-4111-af97-e8688a6e11aa,walk.tennis,available,65.99,65.99,high,low,4,namesilo,,,
-90bd60c7-08ae-481e-a948-1b88ad02cc6d,cream.tennis,available,65.99,65.99,medium,low,5,namesilo,,,19/09/2026 04:58
+90bd60c7-08ae-481e-a948-1b88ad02cc6d,cream.tennis,available,65.99,65.99,medium,low,5,namesilo,,,23/09/2026 06:38
 2280f2dc-d98c-466c-96ee-b1fe4c5d5101,ameboid.tennis,available,65.99,65.99,low,low,7,namesilo,,,
-2a243f9d-bc3e-47fc-82af-76b24cac7397,back.tennis,available,65.99,65.99,high,low,4,namesilo,,,
+2a243f9d-bc3e-47fc-82af-76b24cac7397,back.tennis,available,65.99,65.99,medium,low,4,namesilo,,,22/09/2026 15:40
 6993bd89-3d12-4afd-808a-ee4dde1e859f,worsened.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 a82b00a9-a8dc-40b0-9c9d-d748520a172c,foreign.tennis,available,65.99,65.99,low,low,7,namesilo,,,
 76553da6-9d4b-450b-94cc-7ffc9532b3fe,friend.tennis,available,65.99,65.99,high,low,6,namesilo,,,
@@ -622,7 +621,7 @@ a82b00a9-a8dc-40b0-9c9d-d748520a172c,foreign.tennis,available,65.99,65.99,low,lo
 7c15a026-62e1-40ac-91e9-454268b2d59b,ruled.tennis,available,80.99,,high,low,5,name.com,,,
 7ca8747b-7c92-4f55-9e47-5d8c3ecca18a,letterbox.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 52534cd6-8bff-4f42-987b-08ceacd6a559,pair.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
-99541a5a-80b0-4b63-a0ed-b7cd04207247,dreadful.tennis,available,65.99,65.99,high,low,8,namesilo,,,
+99541a5a-80b0-4b63-a0ed-b7cd04207247,dreadful.tennis,available,65.99,65.99,low,low,8,namesilo,,,22/09/2026 15:15
 aa7b8981-c303-4a76-a4bc-a61746c313c9,effort.tennis,available,65.99,65.99,medium,low,6,namesilo,,,19/09/2026 09:55
 d6d0a77a-91bd-4b41-b99a-bfaf1c821085,ape.tennis,available,65.99,65.99,medium,low,3,namesilo,,,
 06f5c948-9652-4781-b7ad-a6fe9d61c849,asocial.tennis,available,65.99,65.99,low,low,7,namesilo,,,07/08/2026 04:36
@@ -640,7 +639,7 @@ bf4b9eef-806d-4753-8f34-fc60e6a8f98f,kitschy.tennis,available,65.99,65.99,low,lo
 c0f0183e-4213-4f67-b7d8-88f7e0f928e1,rake.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
 15033ef2-1f9a-43b2-8968-84e340923f8b,accoutered.tennis,available,65.99,65.99,low,low,10,namesilo,,,
 50d843ba-3246-4297-814e-2c8e14a8e4c5,median.tennis,available,65.99,65.99,high,low,6,namesilo,,,
-e6217340-8689-4594-8a8e-a92fc5698fe4,activated.tennis,available,80.99,86.99,high,low,9,name.com,,,
+e6217340-8689-4594-8a8e-a92fc5698fe4,activated.tennis,available,65.99,65.99,medium,low,9,namesilo,,,21/09/2026 16:32
 4a048056-7223-49a4-9dcb-8085bf0e3957,formal.tennis,available,80.99,86.99,high,low,6,name.com,,,
 680cb5ad-e8dc-48d1-b437-6b1f175c7e7f,rare.tennis,available,65.99,65.99,high,medium,4,namesilo,,,
 f4eba410-0b90-4e8a-bfdf-32e22c6b2841,groups.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
@@ -680,14 +679,14 @@ e19d4aba-cb1a-4268-861b-4578cf975447,carnal.tennis,available,65.99,65.99,low,low
 3a2c0dc8-984c-4fbb-b65f-2f05a57c5566,detergent.tennis,available,80.99,86.99,high,low,9,name.com,,,
 5ac80e6f-69ed-4ec2-89d5-c4fa030a6144,autarkic.tennis,available,65.99,65.99,low,low,8,namesilo,,,07/08/2026 18:47
 70e01180-cc8f-42f0-a45a-fce73c5154e9,greg.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
-c3f4f23f-763b-4528-b2c7-06ffc1f6745b,prenatal.tennis,available,80.99,,high,low,8,name.com,,,
+c3f4f23f-763b-4528-b2c7-06ffc1f6745b,prenatal.tennis,available,65.99,65.99,medium,low,8,namesilo,,,22/09/2026 05:55
 0e583fff-6b13-47c2-8c65-7e971877d89b,expire.tennis,available,80.99,,medium,low,6,name.com,,,
 761e5181-7e2a-4001-a94c-e37cf32c3ca0,opposable.tennis,available,65.99,65.99,low,low,9,namesilo,,,06/08/2026 07:43
-818768ea-0687-434f-be91-7905f09d0866,alkaline.tennis,available,80.99,86.99,high,low,8,name.com,,,
+818768ea-0687-434f-be91-7905f09d0866,alkaline.tennis,available,67.98,81.98,medium,low,8,namecheap,,,22/09/2026 00:14
 dff66a9f-5df6-47f7-a2ba-44777e576f88,amuck.tennis,available,65.99,65.99,low,low,5,namesilo,,,
 8e7e86c0-2e47-4d37-b0fb-351bfc76dfd4,pressure.tennis,available,65.99,65.99,high,low,8,namesilo,,,
 310e8b34-6291-47a2-bb60-53f5e75253d2,muffin.tennis,available,65.99,65.99,high,low,6,namesilo,,,
-97d44fa9-45f5-4c01-b518-63973f4f2798,over.tennis,available,80.99,86.99,high,low,4,name.com,,,
+97d44fa9-45f5-4c01-b518-63973f4f2798,over.tennis,available,65.99,65.99,low,low,4,namesilo,,,22/09/2026 00:56
 a6bfe821-8217-4c60-a26e-de13be0dfaf7,bedded.tennis,available,65.99,65.99,low,low,6,namesilo,,,09/08/2026 06:41
 9a34a678-33c5-4e72-a017-ab211b34587a,potential.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 dddcce87-1089-43d0-843b-70272e29f714,daddy.tennis,available,65.99,65.99,high,low,5,namesilo,,,
@@ -698,7 +697,7 @@ ac8101fd-0283-488c-846d-efa7a9ce416f,jan.tennis,available,65.99,65.99,high,low,3
 852a02e7-d1d3-4d64-8c9b-f3b617bdeaba,floor.tennis,available,65.99,65.99,medium,low,5,namesilo,,,08/09/2026 02:52
 6e6574b8-4f2b-46a2-b827-1a35ababeaa2,kangeroo.tennis,available,65.99,65.99,high,low,8,namesilo,,,
 b60d78e4-a26f-4446-b745-e6bc2e40bb16,class.tennis,available,80.99,,high,low,5,name.com,,,
-674cf90d-036b-4566-a9ad-fe2ef79fd453,antiacid.tennis,available,80.99,,high,low,8,name.com,,,
+674cf90d-036b-4566-a9ad-fe2ef79fd453,antiacid.tennis,available,65.99,65.99,medium,low,8,namesilo,,,22/09/2026 05:47
 aca6dc07-7abf-4c58-8cad-4b4c513c82cd,laid.tennis,available,65.99,65.99,medium,low,4,namesilo,,,
 68277891-0fff-4d37-bbdd-b431c3201adb,ingenuous.tennis,available,65.99,65.99,low,low,9,namesilo,,,06/08/2026 23:41
 9fac7594-bb5e-49ad-8ba6-a867dced2fcb,letterspacing.tennis,available,65.99,65.99,medium,low,14,namesilo,,,
@@ -726,10 +725,9 @@ e5ed9f90-fe1c-4da1-8939-c79fdac4955b,apriori.tennis,available,65.99,65.99,low,lo
 f0368980-1fbf-4b7b-8001-494e3753f5d9,eightyone.tennis,available,67.98,81.98,low,low,10,namecheap,,,
 4d94b4ed-bdaa-41fc-8ead-20b71cdeccae,cell.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 477b2457-e444-4bb2-9142-43c7fe40ca8d,sidelong.tennis,available,65.99,65.99,low,low,8,namesilo,,,07/08/2026 03:26
-0bf723db-3879-4d33-b470-1f753eb36439,fourteen.tennis,available,80.99,86.99,high,low,8,name.com,,,
+0bf723db-3879-4d33-b470-1f753eb36439,fourteen.tennis,available,65.99,65.99,medium,low,8,namesilo,,,21/09/2026 11:38
 89e207d8-d4ce-4097-b913-26ea553ae6eb,flew.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 7a89d342-e519-4e4d-8d18-f9252b792ae1,ourfather.tennis,available,65.99,65.99,low,low,10,namesilo,,,
-cea9c644-796f-4a54-8b24-ca7bd9710975,boss.tennis,available,,,high,high,4,,,,
 510f10df-25fe-4dfb-b0a1-d68192c6d00c,bringback.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 6d96376c-cf94-4bcb-a327-fd6a841655b3,newworld.tennis,available,80.99,,medium,low,9,name.com,,,
 3856c63b-a90b-4de5-addc-3791bf144dc9,workethic.tennis,available,65.99,65.99,high,low,10,namesilo,,,
@@ -772,8 +770,8 @@ b5e37a2f-07df-42ad-a524-ea8ecca145d5,extraordinary.tennis,available,80.99,,high,
 d6e120cc-bac4-451b-9b2b-dbfd1ce5ac0b,recreant.tennis,available,65.99,65.99,low,low,8,namesilo,,,06/08/2026 03:55
 bc63b44a-ef66-4acf-a436-41aac5bb94f0,starchlike.tennis,available,65.99,65.99,low,low,10,namesilo,,,
 1f0d7ddd-01ab-4569-89e3-ea2c314f9958,glistering.tennis,available,65.99,65.99,low,low,10,namesilo,,,
-24828db3-be23-4306-9217-34728f9c1fc8,hooked.tennis,available,80.99,,medium,low,6,name.com,,,
-866a0e91-7c18-4ea5-9a6c-f1600e6ad2d4,adroit.tennis,available,80.99,86.99,high,low,6,name.com,,,
+24828db3-be23-4306-9217-34728f9c1fc8,hooked.tennis,available,67.98,81.98,low,low,6,namecheap,,,22/09/2026 07:30
+866a0e91-7c18-4ea5-9a6c-f1600e6ad2d4,adroit.tennis,available,67.98,81.98,low,low,6,namecheap,,,21/09/2026 19:49
 4bbeb26f-7e0d-492d-a8df-eebcdb78c6a6,implying.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 69f2f88a-4e47-4191-bcf7-d01f25188c80,mixedgrill.tennis,available,65.99,65.99,high,low,11,namesilo,,,
 b24bf1a0-2f0a-42f1-b663-4d2245d50629,divers.tennis,available,65.99,65.99,high,low,6,namesilo,,,
@@ -785,7 +783,7 @@ c613928c-bae8-4c1e-995e-5897012792e0,omega.tennis,available,,,high,low,5,,,,
 a7d77142-9a07-43cd-a2c8-4bd00a5f7a9c,parallel.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
 21a0bf53-3729-4c73-8609-57ee7c5ce27f,came.tennis,available,65.99,65.99,high,low,4,namesilo,,,
 eed016d2-2d06-4ae2-baf7-1e8ac4c44f45,steer.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
-221413f3-bc4c-4097-9ca5-136aa8d62fff,beatup.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
+221413f3-bc4c-4097-9ca5-136aa8d62fff,beatup.tennis,available,67.98,81.98,low,low,7,namecheap,,,22/09/2026 18:16
 75523b5d-e097-4674-9685-03c7edec4e51,supersize.tennis,available,65.99,65.99,high,low,9,namesilo,,,
 0c7cfc93-0f16-4387-bf82-8cea3368d889,obscure.tennis,available,65.99,65.99,low,low,7,namesilo,,,05/08/2026 21:59
 c8ad49d0-d80d-4e6f-9fcc-b3c32ffc3a42,info.tennis,premium,118.8,118.8,high,medium,4,namesilo,,,
@@ -801,8 +799,8 @@ b0985c4b-3cfb-4dd2-a655-9d6f8badb874,squint.tennis,available,65.99,65.99,low,low
 9ade6383-d59d-4ea1-8ba2-dfdc809ad17e,comeintoforce.tennis,available,65.99,65.99,high,low,15,namesilo,,,
 c24f6d9f-02c7-4962-808f-b816fa17e2aa,justfriends.tennis,available,65.99,65.99,high,low,12,namesilo,,,
 5ae6638f-256d-4998-817a-2cc0c347e2c0,bus.tennis,available,65.99,65.99,high,low,3,namesilo,,,
-e9962e40-6d28-4ede-a404-fca30b0ea9e3,single.tennis,available,80.99,86.99,high,low,6,name.com,,,
-1317a3da-d12a-468b-b582-0d2642c473ac,attentive.tennis,available,80.99,,medium,low,9,name.com,,,
+e9962e40-6d28-4ede-a404-fca30b0ea9e3,single.tennis,available,65.99,65.99,medium,low,6,namesilo,,,21/09/2026 10:43
+1317a3da-d12a-468b-b582-0d2642c473ac,attentive.tennis,available,80.99,86.99,low,low,9,name.com,,,22/09/2026 11:22
 752678c5-9786-409c-bee1-d3cd3fb925cd,stock.tennis,available,65.99,65.99,medium,medium,5,namesilo,,,
 b5ca9641-e454-4691-bdf6-8f73af0c9de0,restriction.tennis,available,65.99,65.99,low,low,11,namesilo,,,
 c0b0b11d-9819-4cfb-8a91-75775d94adf3,mydearfellow.tennis,available,65.99,65.99,low,low,14,namesilo,,,
@@ -811,7 +809,7 @@ be4794fe-d743-4523-9a71-3e3958137ebc,antithetic.tennis,available,65.99,65.99,low
 f7b49492-e3b2-4cb8-a859-8f0f40fb6be1,faith.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 36930e61-cfb7-43c1-ab91-dfd0be07bccf,mixedup.tennis,available,65.99,65.99,low,low,8,namesilo,,,07/08/2026 12:12
 8935ba35-e562-443f-8ef4-5f0fd5e68ac3,spare.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
-1861eafe-fdac-402a-8d0c-7989c77fb5c7,acting.tennis,available,80.99,86.99,high,low,6,name.com,,,
+1861eafe-fdac-402a-8d0c-7989c77fb5c7,acting.tennis,available,80.99,86.99,low,low,6,name.com,,,21/09/2026 16:22
 01cacabb-d7ec-49d9-9c21-6a4bb8416f89,belated.tennis,available,65.99,65.99,low,low,7,namesilo,,,09/08/2026 12:37
 01b6a759-29e2-43dd-8204-380a527ccbf9,givebirth.tennis,available,65.99,65.99,high,low,10,namesilo,,,
 2bb807ed-b8b0-49fb-bf2a-9a75e7413287,razor.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
@@ -859,12 +857,12 @@ df54bcb7-bc0c-42e4-9280-4167c5941b8e,orbicular.tennis,available,65.99,65.99,low,
 2c3b3a52-1680-46d9-96f2-f8bb64c65ffc,queen.tennis,available,65.99,65.99,high,low,5,namesilo,,,
 98c6538d-803d-4846-bceb-bffd77292407,gun.tennis,available,65.99,65.99,medium,low,3,namesilo,,,
 2bb56403-1bdd-4d33-bdbb-25cd1c5d0a33,fence.tennis,available,65.99,65.99,high,low,5,namesilo,,,
-ea75b3fc-82b6-4d03-8be5-eb1d1d5fa398,admirable.tennis,available,80.99,86.99,high,low,9,name.com,,,
+ea75b3fc-82b6-4d03-8be5-eb1d1d5fa398,admirable.tennis,available,65.99,65.99,medium,low,9,namesilo,,,21/09/2026 18:46
 007928ef-1a18-4d1a-8f77-684c8b51f548,pungent.tennis,available,67.98,81.98,low,low,7,namecheap,,,
-b8f13e59-e1dd-4c07-b7dd-5bfd95cfd572,found.tennis,available,65.99,65.99,high,medium,5,namesilo,,,
+b8f13e59-e1dd-4c07-b7dd-5bfd95cfd572,found.tennis,available,65.99,65.99,medium,low,5,namesilo,,,22/09/2026 17:43
 abd6c9bf-14ee-4d2b-a4f9-2a2a53fd550e,clayey.tennis,available,65.99,65.99,low,low,6,namesilo,,,06/08/2026 18:22
 c2496784-ba82-4a87-81d1-203938f9f42a,laundry.tennis,available,65.99,65.99,high,low,7,namesilo,,,
-3810f088-0a8f-4e5d-87e5-5d92f1828784,coloured.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
+3810f088-0a8f-4e5d-87e5-5d92f1828784,coloured.tennis,available,67.98,81.98,low,low,8,namecheap,,,22/09/2026 20:29
 1996f822-1918-4f53-b107-560e55adbba3,aoristic.tennis,available,67.98,81.98,low,low,8,namecheap,,,05/08/2026 21:43
 071e7c24-d0e2-4c00-be7c-b9e51cb5fa79,howfar.tennis,available,65.99,65.99,medium,low,7,namesilo,,,
 a0f45df0-1c62-4de7-8d95-ce1b22ea69e0,mecca.tennis,available,65.99,65.99,high,low,5,namesilo,,,
@@ -885,7 +883,7 @@ d1f3555b-07d5-43ff-bcb8-77c318f87938,romanfoot.tennis,available,80.99,,low,low,1
 532a8a4b-1b7e-4dc7-a525-e1a42b113d15,cameroon.tennis,available,,,high,low,8,,,,
 daf2f2b2-9456-498e-aecc-79c6028fc29e,will.tennis,available,65.99,65.99,high,medium,4,namesilo,,,
 edd886cb-8fdb-4d5d-8b71-0dabb43082f3,myapology.tennis,available,65.99,65.99,high,low,10,namesilo,,,
-9df1c5fb-f5f9-430c-a34e-073a15271e83,total.tennis,premium,123.75,123.75,high,low,5,name.com,,,
+9df1c5fb-f5f9-430c-a34e-073a15271e83,total.tennis,premium,128.7,128.7,medium,low,5,namecheap,,,21/09/2026 22:55
 0112636e-4240-4701-b5a4-b8b46c2133ae,cherryontop.tennis,available,65.99,65.99,high,low,13,namesilo,,,
 ffe03c0b-205e-43d6-a867-a9385cb21a35,getwiththetimes.tennis,available,80.99,,high,low,18,name.com,,,
 2b140790-cfa6-405b-91c2-1baecf1070a2,ifallen.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
@@ -904,7 +902,7 @@ edd7fe41-6209-4b0d-b2ba-d0c5ea0b6c8e,bloodsample.tennis,available,65.99,65.99,hi
 b4b4fbda-e0d3-4ccb-a94f-cfb56d663279,awed.tennis,available,65.99,65.99,low,low,4,namesilo,,,08/08/2026 00:44
 5d96fd75-0b4d-4ec0-8791-215f3e5c9c36,indate.tennis,available,65.99,65.99,low,low,7,namesilo,,,
 baf735f8-4553-40b4-b7d3-06216f2f192c,ampullary.tennis,available,65.99,65.99,low,low,9,namesilo,,,
-87a63239-9a8c-4086-b06b-03b2ff56f4cb,bound.tennis,available,80.99,,medium,low,5,name.com,,,
+87a63239-9a8c-4086-b06b-03b2ff56f4cb,bound.tennis,available,65.99,65.99,low,low,5,namesilo,,,22/09/2026 07:27
 c9ba9dad-e8df-4430-bbe3-51709328abe6,kooky.tennis,available,67.98,81.98,low,low,5,namecheap,,,06/08/2026 21:04
 377c4916-f443-436e-86eb-941ea5b7a55d,wordplay.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 152be54d-fbf7-4b6e-9e33-826071fcc2c8,accessary.tennis,available,65.99,65.99,low,low,9,namesilo,,,
@@ -928,7 +926,7 @@ b039384a-752a-44dc-bcd9-c458d996601c,atthispoint.tennis,available,65.99,65.99,me
 fb37efbd-ffa3-4ba1-bb0c-f109ed15ffde,delight.tennis,available,65.99,65.99,high,low,7,namesilo,,,
 7e6316e1-e4c4-48d3-bd9e-6567a5484773,pirate.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 569e3d51-8887-4db6-9716-a5d180ed929f,higher.tennis,available,65.99,65.99,high,low,6,namesilo,,,
-6bf0fe65-b242-4322-bb3c-34934974385b,bold.tennis,available,65.99,65.99,high,low,4,namesilo,,,
+6bf0fe65-b242-4322-bb3c-34934974385b,bold.tennis,available,65.99,65.99,medium,low,4,namesilo,,,22/09/2026 23:09
 56040461-fea8-4e5d-af11-b4ca4bc9ac85,storyteller.tennis,available,80.99,,high,low,11,name.com,,,
 17e375fe-d08e-46b1-a78f-0540e7d27c89,antlered.tennis,available,65.99,65.99,low,low,8,namesilo,,,05/08/2026 20:11
 1ab68753-e1e7-4089-8641-bd5f49547a10,ambulatory.tennis,available,65.99,65.99,low,low,10,namesilo,,,
@@ -937,7 +935,7 @@ f1cf1303-4ef3-493a-b924-bd80d0a8d4a9,when.tennis,available,65.99,65.99,high,low,
 63d67f6d-f2ff-4ec7-aeb5-7d9503e0f699,comeshort.tennis,available,65.99,65.99,medium,low,10,namesilo,,,
 f3dc481a-14bf-4274-9704-97d92a5cd295,fortyeight.tennis,available,65.99,65.99,high,low,11,namesilo,,,
 03a09930-32c0-49bc-b118-562737773866,gothere.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
-34071c23-6cad-45a4-85f7-6e0452751134,abovethefold.tennis,available,65.99,65.99,medium,low,14,namesilo,,,
+34071c23-6cad-45a4-85f7-6e0452751134,abovethefold.tennis,available,65.99,65.99,low,low,14,namesilo,,,
 a8b6fd83-dd98-4f5d-a7a7-b359eb6b18cc,aciduric.tennis,available,65.99,65.99,low,low,8,namesilo,,,
 4cb388dd-96b4-4ac1-aac9-2021f9b6a245,pollen.tennis,available,65.99,65.99,high,low,6,namesilo,,,
 a9fabb25-fa55-4d70-89c9-7a920a1d5de0,andantino.tennis,available,65.99,65.99,low,low,9,namesilo,,,
@@ -953,7 +951,7 @@ b7919954-61c9-43c0-801f-f2a62d18410e,endemic.tennis,available,65.99,65.99,low,lo
 47df6811-f1e9-4856-9d5e-4845880b3402,weird.tennis,available,80.99,86.99,medium,low,5,name.com,,,
 8117df56-dbcf-49be-8c35-788cbfe7e7fc,golfclub.tennis,available,80.99,,high,low,9,name.com,,,
 0ba35f3e-e46d-4042-867b-8c624d32ade7,sip.tennis,available,65.99,65.99,medium,low,3,namesilo,,,
-31b154bf-0dec-440c-a744-99e90dac2bdb,augratin.tennis,available,65.99,65.99,high,low,9,namesilo,,,
+31b154bf-0dec-440c-a744-99e90dac2bdb,augratin.tennis,available,65.99,65.99,medium,low,9,namesilo,,,22/09/2026 11:47
 5881ba93-0b77-4a0c-a97b-26e1a51b1a28,moneymarketfund.tennis,available,65.99,65.99,high,low,17,namesilo,,,
 52760959-431f-4d41-8885-3c6811aea593,fixitagaintony.tennis,available,65.99,65.99,medium,low,17,namesilo,,,
 e540c52a-21fa-4a37-8e51-5ae180051fd9,standing.tennis,available,65.99,65.99,medium,low,8,namesilo,,,
@@ -970,7 +968,7 @@ d11e8646-2357-4d6d-881e-a2cd599ee970,audi.tennis,available,,,high,low,4,,,,
 75d81bfd-93dc-4e2a-b665-5b2cd218c0fd,picked.tennis,available,65.99,65.99,high,low,6,namesilo,,,
 e55a27d9-3ba2-4032-9971-a86cfc4b14fe,unitedkingdom.tennis,available,,,low,low,14,,,,
 ac907d74-c7d3-427a-8b1a-a32f8439a682,aramaic.tennis,available,65.99,65.99,low,low,7,namesilo,,,06/08/2026 12:13
-06ce7668-07b7-4923-b719-23b5c325845b,abovenamed.tennis,available,65.99,65.99,medium,low,11,namesilo,,,
+06ce7668-07b7-4923-b719-23b5c325845b,abovenamed.tennis,available,65.99,65.99,low,low,11,namesilo,,,
 a0a702c8-21b2-41fd-aabb-b6137bf97fba,youandyours.tennis,available,65.99,65.99,low,low,13,namesilo,,,
 ad4508f9-1b50-4acb-8cb2-f52cb24817dc,rightnow.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 645a8807-743b-4efe-9164-bc53d69cee16,use.tennis,available,65.99,65.99,high,low,3,namesilo,,,
@@ -980,10 +978,10 @@ e251102c-b80e-4ec8-b282-e1ebd44268fd,ilikepie.tennis,available,80.99,,medium,low
 1cacabf1-46f0-4dfb-ad64-185ee2eeb023,nan.tennis,available,80.99,,high,low,3,name.com,,,
 953865de-9914-42ad-a389-fc40455394c7,mount.tennis,available,65.99,65.99,medium,low,5,namesilo,,,
 bac8ba4e-662a-472d-a295-d26f2ad858b2,astomatal.tennis,available,65.99,65.99,low,low,9,namesilo,,,07/08/2026 09:41
-f938b98d-83fd-4a60-a802-ba3ad48a3af0,learning.tennis,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 05:11
+f938b98d-83fd-4a60-a802-ba3ad48a3af0,learning.tennis,premium,118.8,118.8,medium,low,8,namesilo,,,23/09/2026 03:00
 88b01a53-f171-4c13-8a1c-3045827c04f6,wipeup.tennis,available,80.99,,high,low,7,name.com,,,
 9634f003-aaf8-4245-9bf0-4468ca59f9f3,intelligence.tennis,available,80.99,,high,low,12,name.com,,,
-b303eb85-a83c-4b0e-8336-7c65089a9fdc,dessert.tennis,available,65.99,65.99,medium,low,7,namesilo,,,19/09/2026 09:08
+b303eb85-a83c-4b0e-8336-7c65089a9fdc,dessert.tennis,available,65.99,65.99,medium,low,7,namesilo,,,23/09/2026 04:26
 780a6a4d-992d-4fe3-8e65-cf7631fa92f9,herbalmedicine.tennis,available,65.99,65.99,high,low,15,namesilo,,,
 852ab033-9805-4c93-84ca-28fa58f0bf1f,longhaired.tennis,available,80.99,,low,low,11,name.com,,,
 447d38c0-9597-4575-aad5-5a921196993b,identifier.tennis,available,65.99,65.99,high,low,10,namesilo,,,
@@ -993,9 +991,11 @@ c7d64131-ec50-421a-9278-e1060e1900af,stick.tennis,available,65.99,65.99,high,low
 35106a59-34ed-4e92-92a1-9ca5152af393,rosegold.tennis,available,65.99,65.99,medium,low,9,namesilo,,,
 73933844-92c7-44cd-8d09-7f821723d12b,intwoshakes.tennis,available,65.99,65.99,medium,low,13,namesilo,,,
 f899be2d-497a-472e-b37e-cdfccb5f0a81,cleaner.tennis,available,65.99,65.99,high,low,7,namesilo,,,
-96594670-4222-4560-bef3-420a1b316ac9,aerobic.tennis,available,80.99,86.99,high,low,7,name.com,,,
+96594670-4222-4560-bef3-420a1b316ac9,aerobic.tennis,available,67.98,81.98,medium,low,7,namecheap,,,21/09/2026 21:01
 8c1f0e2c-7810-4383-87f8-1e8902b3e10e,bighair.tennis,available,65.99,65.99,high,low,8,namesilo,,,
 0daeb3e4-b24b-4732-bea2-650bad1ec7b4,dynamic.tennis,available,80.99,86.99,high,low,7,name.com,,,
 be0cee59-2a81-4684-903d-e1cbfac589f4,injure.tennis,available,65.99,65.99,medium,low,6,namesilo,,,
 c1ca385a-9789-483a-a22d-c0581fef7349,planted.tennis,available,80.99,86.99,medium,low,7,name.com,,,
 c5cc84bb-ec6b-4aa9-ab6e-6a57cd0bba5e,flower.tennis,available,65.99,65.99,high,low,6,namesilo,,,
+c0e3dedc-2371-448d-a761-b2a5113cfe4c,champagne.tennis,available,80.99,,high,low,9,name.com,,,
+60427145-bf35-4199-bb55-54f4380b3441,expression.tennis,available,65.99,65.99,high,low,10,namesilo,,,
