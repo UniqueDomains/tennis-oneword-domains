@@ -1,10 +1,10 @@
-# Available .TENNIS One-Word Domains (23,732)
+# Available .TENNIS One-Word Domains (24,348)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C732%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C348%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tennis one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,732 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,348 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,732 domains · **Median ask:** $67.76 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 24,348 domains · **Median ask:** $67.52 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/tennis`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| corporate.tennis     | available | $65.99    | $65.99        | high           | low    | 9      | namesilo  |
-| blossom.tennis       | available | $67.98    | $81.98        | high           | low    | 7      | namecheap |
-| raise.tennis         | available | $65.99    | $65.99        | high           | low    | 5      | namesilo  |
-| jewish.tennis        | available | $65.99    | $65.99        | high           | low    | 6      | namesilo  |
-| fork.tennis          | available | $67.98    | $81.98        | high           | low    | 4      | namecheap |
-| small.tennis         | available | $80.99    | $86.99        | high           | low    | 5      | name.com  |
-| profitability.tennis | available | $65.99    | $65.99        | high           | low    | 13     | namesilo  |
-| vitamin.tennis       | available | $65.99    | $65.99        | high           | low    | 7      | namesilo  |
-| furnishings.tennis   | available | $67.98    | $81.98        | high           | low    | 11     | namecheap |
-| patriotic.tennis     | available | $65.99    | $65.99        | high           | low    | 9      | namesilo  |
-| meanwhile.tennis     | available | $65.99    | $65.99        | high           | low    | 9      | namesilo  |
-| cherry.tennis        | available | $65.99    | $65.99        | high           | low    | 6      | namesilo  |
-| wheels.tennis        | available | $65.99    | $65.99        | high           | low    | 6      | namesilo  |
-| confident.tennis     | available | $67.98    | $81.98        | high           | low    | 9      | namecheap |
-| diligent.tennis      | available | $65.99    | $65.99        | high           | low    | 8      | namesilo  |
-| realized.tennis      | available | $65.99    | $65.99        | high           | low    | 8      | namesilo  |
-| addicted.tennis      | available | $67.98    | $81.98        | high           | low    | 8      | namecheap |
-| inventory.tennis     | available | $67.98    | $81.98        | high           | low    | 9      | namecheap |
-| whatever.tennis      | available | $65.99    | $65.99        | high           | low    | 8      | namesilo  |
-| least.tennis         | available | $67.98    | $81.98        | high           | low    | 5      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aec.tennis      | available | $67.98    | $81.98        | high           | low    | 3      | namecheap |
+| boys.tennis     | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
+| ail.tennis      | available | $67.98    | $81.98        | medium         | low    | 3      | namecheap |
+| sexy.tennis     | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap |
+| any.tennis      | available | $65.99    | $65.99        | high           | medium | 3      | namesilo  |
+| hello.tennis    | premium   | $118.80   | $118.80       | high           | high   | 5      | namesilo  |
+| apc.tennis      | available | $65.99    | $65.99        | high           | low    | 3      | namesilo  |
+| europe.tennis   | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
+| bib.tennis      | available | $67.98    | $81.98        | high           | low    | 3      | namecheap |
+| oakland.tennis  | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo  |
+| bit.tennis      | available | $65.99    | $65.99        | high           | medium | 3      | namesilo  |
+| phoenix.tennis  | premium   | $242      | $242          | high           | medium | 7      | namesilo  |
+| ghz.tennis      | available | $65.99    | $65.99        | high           | low    | 3      | namesilo  |
+| european.tennis | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo  |
+| got.tennis      | available | $65.99    | $65.99        | high           | low    | 3      | namesilo  |
+| how.tennis      | available | $65.99    | $65.99        | high           | low    | 3      | namesilo  |
+| jew.tennis      | available | $67.98    | $81.98        | high           | low    | 3      | namecheap |
+| lii.tennis      | available | $65.99    | $65.99        | medium         | low    | 3      | namesilo  |
+| nut.tennis      | available | $65.99    | $65.99        | high           | low    | 3      | namesilo  |
+| oil.tennis      | available | $67.98    | $81.98        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,732 live domains                        |
+| 1,000-row public sample | 24,348 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TENNIS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
